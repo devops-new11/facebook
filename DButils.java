@@ -1,2 +1,4 @@
 Hello Guys
-this is a file contains DB logi
+this is a file contains DB logic
+new line added
+
